@@ -1,0 +1,4 @@
+day*.py
+*.csv
+*.db
+__pycache__/
